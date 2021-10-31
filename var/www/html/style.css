@@ -1,0 +1,55 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 460px;
+}
+
+.aqi-container {
+    border: 3px solid;
+    border-radius: 10px;
+    width: 180px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.aqi {
+    font-size: 5em;
+    font-weight: bold;
+}
+
+.pm-label {
+    font-style: italic;
+}
+
+.time, .link {
+    text-align: center;
+}
+
+table {
+    border: 2px solid #097;
+}
+
+table thead tr {
+    background-color: #097;
+    color: #fff;
+}
+
+table th, table td {
+    padding: 4px 4px;
+    text-align: center;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #ddd;
+}
+
+table tbody tr:hover {
+    color: #fff;
+    background-color: #097;
+}
+
+h2 {
+    text-align: center;
+}
