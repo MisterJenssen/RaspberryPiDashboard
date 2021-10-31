@@ -17,4 +17,4 @@ Temperature, Humydity & Presure:
 https://www.adafruit.com/product/2652  
 
 Lightsensor:  
-
+https://www.adafruit.com/product/4681  
