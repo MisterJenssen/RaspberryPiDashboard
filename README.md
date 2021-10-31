@@ -1,7 +1,10 @@
 # RaspberryPiDashboard
 
 Touchscreen LCD:  
-https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)
+https://www.waveshare.com/wiki/10.1inch_HDMI_LCD_(B)  
+
+Auto tab switch chromium:  
+https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhhijacnbda?hl=en  
 
 Air Quality:  
 https://hackernoon.com/how-to-measure-particulate-matter-with-a-raspberry-pi-75faa470ec35  
