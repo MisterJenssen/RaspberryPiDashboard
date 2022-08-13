@@ -8,8 +8,8 @@ https://chrome.google.com/webstore/detail/revolver-tabs/dlknooajieciikpedpldejhh
 
 Air Quality PM2.5 & PM10:  
 https://hackernoon.com/how-to-measure-particulate-matter-with-a-raspberry-pi-75faa470ec35  
-https://pimylifeup.com/raspberry-pi-apache/
-https://en.wikipedia.org/wiki/Air_quality_index
+https://pimylifeup.com/raspberry-pi-apache/  
+https://en.wikipedia.org/wiki/Air_quality_index  
 
 Air Quality VOC/eCO2:  
 https://www.adafruit.com/product/3709  
