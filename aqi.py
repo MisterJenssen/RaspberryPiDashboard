@@ -43,7 +43,7 @@ def construct_command(cmd, data=[]):
 
     if DEBUG:
         dump(ret, '> ')
-    return ret
+    return ret.encode()
 
 def process_data(d):
     r = struct.unpack('<HHxxBB', d[2:])
